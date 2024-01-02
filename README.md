@@ -22,3 +22,9 @@ The system consists of the following microservices:
 
    ```bash
    git clone https://github.com/abdelhakim1905/cose.git
+
+## API Documentation
+
+Explore our API using the interactive Swagger documentation:
+
+[Swagger Documentation](./openapi.json)
