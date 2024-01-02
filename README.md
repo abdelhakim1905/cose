@@ -21,4 +21,4 @@ The system consists of the following microservices:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/projet_cose.git
+   git clone https://github.com/abdelhakim1905/cose.git
